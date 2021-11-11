@@ -12,7 +12,5 @@ let bootcampData = (data) => {
         let miembros = document.getElementById('BootcampMembers')
         miembros.innerHTML += `<h2>${item.nombre} ${item.apellido}</h2>
         <ul><li>${item.cumpleaños}</li></ul>`
-        
     }
 }
-
