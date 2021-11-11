@@ -1,0 +1,52 @@
+{
+    "Bootcamp_integrantes": [
+    {
+        "nombre": "María Fernanda",
+        "apellido": "Fajardo Alvarado",
+        "edad": 27,
+        "cumpleaños": "enero-02"
+    },
+    {
+        "nombre": "Jaziel Fernando",
+        "apellido": "Ramírez Alvarado",
+        "edad": 34,
+        "cumpleaños": "mayo-15"
+    },
+    {
+        "nombre": "Amanda Getzemani",
+        "apellido":"Ramírez Alvarado",
+        "edad": 17,
+        "cumpleaños": "noviembre-25"
+    },
+    {
+        "nombre": "Oscar",
+        "apellido": "Ruiz",
+        "edad": 30,
+        "cumpleaños": "diciembre-28"
+    },
+    {
+        "nombre": "David",
+        "apellido": "Hernández",
+        "edad": 29,
+        "cumpleaños": "febrero-16"
+    },
+    {
+        "nombre": "Mónica",
+        "apellido": "Macal",
+        "edad": 29,
+        "cumpleaños": "marzo-23"
+    },
+    {
+        "nombre": "Alberto",
+        "apellido": "Gutiérrez",
+        "edad": 30,
+        "cumpleaños": "julio-13"
+    },
+    {
+        "nombre": "Vania María",
+        "apellido":"Ramírez Alvarado",
+        "edad": 30,
+        "cumpleaños": "junio-10"
+    }
+]
+}
