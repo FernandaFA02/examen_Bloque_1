@@ -9,7 +9,13 @@ let bootcampData = (data) => {
         console.log(item.apellido)
         console.log(item.edad)
         console.log(item.cumpleaños)
-        let miembros = document.getElementById('BootcampMembers')
+    }
+    pintar(data.Bootcamp_integrantes)
+}
+
+let pintar = (datos) => {
+    let miembros = document.getElementById('BootcampMembers')
+    for(const item of datos){
         miembros.innerHTML += `<h2>${item.nombre} ${item.apellido}</h2>
         <ul><li>${item.cumpleaños}</li></ul>`
     }
