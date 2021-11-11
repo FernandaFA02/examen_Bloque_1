@@ -1,0 +1,23 @@
+body{
+    font-family: cursive;
+}
+
+h1{
+    background-color: palevioletred;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h2{
+    font-family: cursive;
+    text-align: justify;
+    background-color: paleturquoise;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    font-family: monospace;
+    background-color: palevioletred;
+    border-radius: 5px;
+}
